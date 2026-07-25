@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Kasra 👋
 
-<!--
-**Kasra-Abdi/Kasra-Abdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently learning:
+- Python
+- Data Analysis
+- Machine Learning
+
+🎯 My Goals
+- Build practical Python projects
+- Improve my Machine Learning skills
+- Create a strong portfolio on GitHub
+- Grow as a Software Engineer and AI Developer
+
+## Current Projects
+
+- 🏪 Store Management System
+- 📊 Healthcare Data Analysis
+
+## Connect with Me
+
+LinkedIn (Coming Soon)

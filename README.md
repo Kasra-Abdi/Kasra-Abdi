@@ -1,6 +1,6 @@
 # Hi, I'm Kasra 👋
 
-## About Me
+## 👨‍💻 About Me
 
 🎓 Computer Science Student
 
@@ -11,15 +11,15 @@
 
 🎯 My Goals
 - Build practical Python projects
-- Improve my Machine Learning skills
-- Create a strong portfolio on GitHub
-- Grow as a Software Engineer and AI Developer
+- Build a strong foundation in Machine Learning
+- Create a professional GitHub portfolio
+- Continuously improve my programming skills
 
-## Current Projects
+## 📚 Current Projects
 
-- 🏪 Store Management System
-- 📊 Healthcare Data Analysis
+- 🏪 Store Management System (Python, Tkinter, SQLite)
+- 📊 Healthcare Data Analysis (Python, Pandas)
 
-## Connect with Me
+## 📫 Connect with Me
 
-LinkedIn (Coming Soon)
+LinkedIn (Profile coming soon)

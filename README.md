@@ -6,6 +6,12 @@
   Exploring Data Analysis, Machine Learning, Artificial Intelligence, and Python
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Machine+Learning+Learner;Data+Analysis+Enthusiast;AI+%26+Python+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -26,32 +32,10 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
-
-## 🐍 Python & ML Learning Journey
-
-I am currently building my foundations through practical Python, Data Analysis, and Machine Learning training.
-
-**📘 Python Fundamentals**
-
-Hands-on practice with Python programming fundamentals, problem-solving, and working with Jupyter Notebook.
-
-Building a strong foundation for further work in Data Science and Machine Learning.
-
-**🎵 Recommendation Systems (ML-03)**
-
-Built recommendation system exercises using real-world datasets such as Spotify and Snappfood.
-
-Worked with Pandas and Scikit-learn while exploring model selection and Grid Search techniques.
-
-**📈 Regression & Image Classification (ML-04 & ML-05)**
-
-Practiced evaluating and tuning regression models through hyperparameter tuning and model evaluation.
-
-Implemented basic Image Classification concepts as part of the Machine Learning learning process.
 
 ---
 
@@ -67,7 +51,7 @@ Implemented basic Image Classification concepts as part of the Machine Learning 
 ## 🎯 Future Goals & Interests
 
 - 🧠 Master Deep Learning and modern Artificial Intelligence
-- 🗄️ Learn SQL and Database Management
+- 🗄️ Deepen SQLite and Database Management skills
 - 💻 Strengthen Software Engineering principles
 - 🚀 Build complex, end-to-end AI projects
 - 💼 Secure an internship opportunity in the AI/ML field
@@ -94,14 +78,4 @@ Implemented basic Image Classification concepts as part of the Machine Learning 
   <a href="mailto:kasraa.abdii.2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<br>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <i>Learning • Building • Improving</i>
 </p>

@@ -6,6 +6,12 @@
   Exploring Data Analysis, Machine Learning, Artificial Intelligence, and Python
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Machine+Learning+Learner;Data+Analysis+Enthusiast;AI+%26+Python+Explorer" alt="Typing SVG" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -21,15 +27,32 @@
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,jupyter,pycharm,vscode,git,github" alt="Kasra's Tools" />
 </p>
+
+---
+
+## 🐍 Python & ML Learning Journey
+
+I am currently building my foundations through practical Python, Data Analysis, and Machine Learning training.
+
+**📘 Python Fundamentals**
+
+Hands-on practice with Python programming fundamentals, problem-solving, and working with Jupyter Notebook.
+
+Building a strong foundation for further work in Data Science and Machine Learning.
+
+**🎵 Recommendation Systems (ML-03)**
+
+Built recommendation system exercises using real-world datasets such as Spotify and Snappfood.
+
+Worked with Pandas and Scikit-learn while exploring model selection and Grid Search techniques.
+
+**📈 Regression & Image Classification (ML-04 & ML-05)**
+
+Practiced evaluating and tuning regression models through hyperparameter tuning and model evaluation.
+
+Implemented basic Image Classification concepts as part of the Machine Learning learning process.
 
 ---
 
@@ -45,7 +68,7 @@
 ## 🎯 Future Goals & Interests
 
 - 🧠 Master Deep Learning and modern Artificial Intelligence
-- 🗄️ Expand SQL and Database Management skills
+- 🗄️ Learn SQL and Database Management
 - 💻 Strengthen Software Engineering principles
 - 🚀 Build complex, end-to-end AI projects
 - 💼 Secure an internship opportunity in the AI/ML field
@@ -74,3 +97,12 @@
   </a>
 </p>
 
+<br>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
+
+<p align="center">
+  <i>Learning • Building • Improving</i>
+</p>

@@ -1,108 +1,67 @@
-<h1 align="center">Hi 👋, I'm Kasra Abdi</h1>
+# 🌟 Hello there! I'm Kasra Abdi
 
-<h3 align="center">Computer Science Student | Machine Learning Learner | Data Science Enthusiast</h3>
+### 🚀 Transforming Data into Intelligence | Computer Science Undergrad
 
-<p align="center">
-  Exploring Data Analysis, Machine Learning, Artificial Intelligence, and Python
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Machine+Learning+Learner;Data+Analysis+Enthusiast;AI+%26+Python+Explorer" alt="Typing SVG" />
-  </a>
-</p>
+Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Science, deeply immersed in the world of Machine Learning, Data Analytics, and Python development. My passion lies in building intelligent systems that solve real-world problems and extracting actionable insights from complex datasets.
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 A Little About My Journey
 
-- 🎓 Computer Science Student (7th Semester)
-- 📊 Building strong foundations in Data Analysis & Machine Learning
-- 🐍 Using Python to solve programming and real-world problems
-- 💡 Passionate about transforming raw data into actionable insights
-- 📚 Focused on continuous academic and technical growth
-
----
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,pycharm,vscode,git,github" alt="Kasra's Tools" />
-</p>
+*   🎓 **Academia:** 7th-semester CS Student with a strong foundation in algorithmic problem-solving and software engineering principles.
+*   🔬 **Current Focus:** Training predictive models, exploring deep learning architectures, and mastering data processing pipelines.
+*   💼 **Aspirations:** Actively building a robust international portfolio to secure impactful roles in the AI/ML industry.
+*   🌱 **Continuous Growth:** Constantly expanding my toolkit beyond Python, diving into SQL, database management, and advanced ML frameworks.
 
 ---
 
-## 🐍 Python & ML Learning Journey
+## 🧰 Tech Arsenal
 
-I am currently building my foundations through practical Python, Data Analysis, and Machine Learning training.
+**Languages & Databases:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**📘 Python Fundamentals**
+**Data Science & ML Stack:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![XGBoost](https://img.shields.io/badge/XGBoost-17489C?style=for-the-badge&logo=xgboost&logoColor=white)
 
-Hands-on practice with Python programming fundamentals, problem-solving, and working with Jupyter Notebook.
-
-Building a strong foundation for further work in Data Science and Machine Learning.
-
-**🎵 Recommendation Systems (ML-03)**
-
-Built recommendation system exercises using real-world datasets such as Spotify and Snappfood.
-
-Worked with Pandas and Scikit-learn while exploring model selection and Grid Search techniques.
-
-**📈 Regression & Image Classification (ML-04 & ML-05)**
-
-Practiced evaluating and tuning regression models through hyperparameter tuning and model evaluation.
-
-Implemented basic Image Classification concepts as part of the Machine Learning learning process.
+**Tools & Environments:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 🚀 Featured Milestones & Projects
 
-- 🐍 Python Programming
-- 📊 Data Analysis with Pandas & NumPy
-- 🤖 Machine Learning Fundamentals
-- 📓 Jupyter Notebook & Data Science Workflows
+🔹 **[ML-08] Predictive Financial Modeling**
+Engineered a binary classification model using **XGBoost** to predict Bitcoin's daily candle directions based on real-time market data via `yfinance`.
 
----
+🔹 **[ML-04 & 05] Computer Vision & Regression Analysis**
+Developed foundational image classification models and evaluated regression algorithms through rigorous hyperparameter tuning and model evaluation.
 
-## 🎯 Future Goals & Interests
-
-- 🧠 Master Deep Learning and modern Artificial Intelligence
-- 🗄️ Learn SQL and Database Management
-- 💻 Strengthen Software Engineering principles
-- 🚀 Build complex, end-to-end AI projects
-- 💼 Secure an internship opportunity in the AI/ML field
-- 🌍 Build a strong international technical portfolio
+🔹 **[ML-03] Recommendation Engines**
+Designed and deployed recommendation systems utilizing real-world datasets (e.g., Spotify, Snappfood) focusing on Grid Search optimization techniques.
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kasraabdi&show_icons=true&theme=tokyonight&hide_border=true" alt="Kasra's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasraabdi&theme=tokyonight&hide_border=true" alt="Kasra's GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kasraabdi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kasraabdi&theme=radical&hide_border=true&background=0D1117" width="48%" />
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📬 Let's Connect!
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kasra-abdi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kasra_Abdi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kasraa.abdii.2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/kasra-abdi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kasraa.abdii.2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 <br>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
-<p align="center">
-  <i>Learning • Building • Improving</i>
-</p>
+<p align="center"><i>Learning • Building • Improving</i></p>

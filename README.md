@@ -15,29 +15,10 @@ Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Sci
 
 ---
 
-## 🧰 Tech Arsenal
-
-**Languages & Databases:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data Science & ML Stack:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-17489C?style=for-the-badge&logo=xgboost&logoColor=white)
-
-**Tools & Environments:**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
 ## 🚀 Featured Milestones & Projects
 
 🔹 **[ML-08] Predictive Financial Modeling**
-Engineered a binary classification model using **XGBoost** to predict Bitcoin's daily candle directions based on real-time market data via `yfinance`.
+Engineered a binary classification model using **XGBoost** to predict Bitcoin's daily candle directions based on real-time market data.
 
 🔹 **[ML-04 & 05] Computer Vision & Regression Analysis**
 Developed foundational image classification models and evaluated regression algorithms through rigorous hyperparameter tuning and model evaluation.

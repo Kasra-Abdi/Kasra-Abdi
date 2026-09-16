@@ -1,17 +1,17 @@
 # 🌟 Hello there! I'm Kasra Abdi
 
-### 🚀 Transforming Data into Intelligence | Computer Science Undergrad
+### 🚀 Computer Science Student | Python, Data Analysis & Artificial Intelligence
 
-Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Science, deeply immersed in the world of Machine Learning, Data Analytics, and Python development. My passion lies in building intelligent systems that solve real-world problems and extracting actionable insights from complex datasets.
+Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Science. I enjoy writing code, solving practical problems, and working with Python to build real-world applications.
 
 ---
 
 ## 👨‍💻 A Little About My Journey
 
-*   🎓 **Academia:** 7th-semester CS Student with a strong foundation in algorithmic problem-solving and software engineering principles.
-*   🔬 **Current Focus:** Training predictive models, exploring deep learning architectures, and mastering data processing pipelines.
-*   💼 **Aspirations:** Actively building a robust international portfolio to secure impactful roles in the AI/ML industry.
-*   🌱 **Continuous Growth:** Constantly expanding my toolkit beyond Python, diving into database management and advanced ML frameworks.
+*   🎓 **Academia & Training:** 7th-semester CS Student, complementing my university studies with practical programming courses at Mojtame Fanni to sharpen my coding skills.
+*   🔬 **Current Focus:** Writing clean Python scripts, analyzing data, and constantly improving my programming workflow.
+*   💼 **Aspirations:** Actively building my programming portfolio to gain hands-on experience in the tech industry.
+*   🌱 **Continuous Growth:** Exploring new tools and expanding my knowledge in database management.
 
 ---
 
@@ -26,19 +26,6 @@ Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Sci
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Milestones & Projects
-
-🔹 **[ML-08] Predictive Financial Modeling**
-Engineered a binary classification model using **XGBoost** to predict Bitcoin's daily candle directions based on real-time market data.
-
-🔹 **[ML-04 & 05] Computer Vision & Regression Analysis**
-Developed foundational image classification models and evaluated regression algorithms through rigorous hyperparameter tuning and model evaluation.
-
-🔹 **[ML-03] Recommendation Engines**
-Designed and deployed recommendation systems utilizing real-world datasets (e.g., Spotify, Snappfood) focusing on Grid Search optimization techniques.
 
 ---
 

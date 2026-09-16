@@ -11,7 +11,20 @@ Welcome to my GitHub workspace! I'm currently in my 7th semester of Computer Sci
 *   🎓 **Academia:** 7th-semester CS Student with a strong foundation in algorithmic problem-solving and software engineering principles.
 *   🔬 **Current Focus:** Training predictive models, exploring deep learning architectures, and mastering data processing pipelines.
 *   💼 **Aspirations:** Actively building a robust international portfolio to secure impactful roles in the AI/ML industry.
-*   🌱 **Continuous Growth:** Constantly expanding my toolkit beyond Python, diving into SQL, database management, and advanced ML frameworks.
+*   🌱 **Continuous Growth:** Constantly expanding my toolkit beyond Python, diving into database management and advanced ML frameworks.
+
+---
+
+## 🧰 Tech Arsenal
+
+**Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Environments:**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
